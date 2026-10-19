@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# C build output
+*.o
+*.out
+*.exe
+bankers_algorithm
+process_tree
+
+# Generated files
+*.png
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store

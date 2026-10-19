@@ -1,0 +1,3 @@
+# Only needed for the scripts that use them
+Faker>=19.0             # fake_information_generator.py
+pywhatkit>=5.4          # handwritten_message.py
