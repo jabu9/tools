@@ -1,5 +1,5 @@
 // Jabu9
-// Parents And Children In Python Inheritance
+// Process tree: parent, children and grandchildren via fork()
 
 #include <stdio.h>
 #include <unistd.h>

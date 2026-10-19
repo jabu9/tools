@@ -67,7 +67,7 @@ void bank_algorithm()
 			need[i][j] = max[i][j] - allocation[i][j];
 	}
 	int y = 0;
-	for (k = 0; k < 5; k++) {
+	for (k = 0; k < n; k++) {
 		for (i = 0; i < n; i++) {
 			if (f[i] == 0) {
 
